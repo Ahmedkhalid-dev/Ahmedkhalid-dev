@@ -1,4 +1,3 @@
-<!--
   Ahmed Khalid's GitHub profile README
   Profile repository: https://github.com/Ahmedkhalid-dev/Ahmedkhalid-dev
   Verified public repositories: UTM-Paws-itive, professional-development-portfolio.
@@ -80,11 +79,3 @@ I'm happy to connect with other students, developers, and anyone who enjoys buil
 <p>
   <a href="https://github.com/Ahmedkhalid-dev"><img src="https://img.shields.io/badge/GitHub-Ahmedkhalid--dev-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ahmed Khalid on GitHub" /></a>
 </p>
-<!-- To add contact links later, replace the placeholders below and remove these HTML comment markers.
-[Email](mailto:YOUR_PUBLIC_EMAIL) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
----
-<div align="center">
-  <strong>Learn • Build • Improve • Repeat</strong>
-  <p><sub>Thanks for stopping by! 🌟</sub></p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:123A66,100:00B8D9&amp;height=95&amp;section=footer" alt="Decorative footer wave" />
-</div>
