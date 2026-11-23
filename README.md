@@ -1,8 +1,4 @@
-  Ahmed Khalid's GitHub profile README
-  Profile repository: https://github.com/Ahmedkhalid-dev/Ahmedkhalid-dev
-  Verified public repositories: UTM-Paws-itive, professional-development-portfolio.
-  The FYP and ESP32 work are described as academic/in-progress work, not linked projects.
-  Before publishing: review the academic description and optionally add your public email/LinkedIn.
+  
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:123A66,100:00B8D9&amp;height=195&amp;section=header&amp;text=Ahmed%20Khalid&amp;fontSize=44&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Welcome%20to%20my%20GitHub%20profile&amp;descAlignY=60&amp;descSize=16" alt="Ahmed Khalid GitHub profile header" />
 <a href="https://github.com/Ahmedkhalid-dev">
